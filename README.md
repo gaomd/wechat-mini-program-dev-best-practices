@@ -2,8 +2,8 @@
 
 ## WeChat Mini Program Development Best Practices
 
-![Work in Progress](https://img.shields.io/badge/当前状态-完善中-red.svg?style=for-the-badge)
-![Work in Progress](https://img.shields.io/badge/STATUS-Work_in_Progress-red.svg?style=for-the-badge)
+[![文档完善中](https://img.shields.io/badge/当前状态-文档完善中-red.svg?style=for-the-badge)](https://github.com/gaomd/wechat-mini-program-dev-best-practices)
+[![Work in Progress](https://img.shields.io/badge/STATUS-Work_in_Progress-red.svg?style=for-the-badge)](https://github.com/gaomd/wechat-mini-program-dev-best-practices)
 
 本文作者结合微信小程序实际开发经验，精心整理了本篇最佳开发实践，旨在帮助读者避开小程序的坑，快速上手，高效开发。
 
