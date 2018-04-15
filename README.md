@@ -15,7 +15,7 @@
 
 因此读者需要掌握基本的前端技能 HTML、CSS 和 JavaScript（ES6+）。
 
-此外，我们将直接放弃微信官方的小程序开发方式，转而使用美团点评的小程序开发框架：[mpvue](https://github.com/Meituan-Dianping/mpvue)，其最大的优势在于底层使用修改过的 Vue.js 核心，并采用 `.vue` 单文件组件化开发方式，再通过 webpack 的强大构建能力，体面地将开发代码转化为小程序代码。
+此外，我们将直接放弃微信官方的小程序开发方式，转而使用美团点评的小程序开发框架：[mpvue](https://github.com/Meituan-Dianping/mpvue)，其最大的优势在于底层使用修改过的 Vue.js 核心，并采用 `*.vue` 单文件组件化开发方式，再通过 webpack 的强大构建能力，体面地将开发代码转化为小程序代码。
 
 <!-- Vue.js 的数据双向绑定、组件化等特性将极大提高开发效率。 -->
 
