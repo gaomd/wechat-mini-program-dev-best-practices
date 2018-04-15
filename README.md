@@ -2,7 +2,8 @@
 
 ## WeChat Mini Program Development Best Practices
 
-![Work in Progress](https://img.shields.io/badge/%E5%BD%93%E5%89%8D%E7%8A%B6%E6%80%81-%E5%AE%8C%E5%96%84%E4%B8%AD-red.svg)
+![Work in Progress](https://img.shields.io/badge/当前状态-完善中-red.svg)
+![Work in Progress](https://img.shields.io/badge/STATUS-Work%20in%20Progress-red.svg)
 
 本文作者结合微信小程序实际开发经验，精心整理了本篇最佳开发实践，旨在帮助读者避开小程序的坑，快速上手，高效开发。
 
@@ -54,7 +55,7 @@
 * OAuth 2.0
 * 微信: [JavaScript SDK（JS-SDK）](https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1421141115)
 
-掌握以上必备技能，我们准备开发。
+掌握以上必备技能，我们进入开发。
 
 ## License
 
